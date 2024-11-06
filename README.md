@@ -1,2 +1,2 @@
 # cs_graduation
-Code projects, exercises, and notes developed during my undergraduate studies in Computer Science.
+This branch contains code projects, exercises, and notes developed during my undergraduate studies in Computer Science. It serves as a collection of practical implementations, theoretical concepts, and personal insights gained throughout the coursework. The repository reflects my academic journey and includes programming assignments, algorithm designs, database models, and annotations from various subjects studied during my graduation.
