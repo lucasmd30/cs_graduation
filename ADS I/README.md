@@ -1,0 +1,2 @@
+## Algorithms and Data Structure I
+### In the "Algorithms and Data Structures I" course, I was introduced to the fundamentals of algorithms, including complexity analysis and recursion. I also learned about elementary sorting algorithms such as Bubble Sort, Insertion Sort, and Selection Sort, as well as search algorithms like Binary Search. Additionally, I explored key data structures, including stacks, queues, lists, binary trees, and binary heaps.
